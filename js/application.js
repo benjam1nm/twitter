@@ -45,7 +45,7 @@ var Grailbird = function (type, date, data) {
     // overwritten. hopefully in the future it will use cldr properly and we can remove this.
     // we want it to look like it does on twitter.com: 10:15 AM - Mar 7, 2013, properly localized and in local time
     twt.formattedDate = function(str) {
-      var d = twt.parseDate(str);
+      var d = twt.fixedParse(str);
       var fmt = new TwitterCldr.DateTimeFormatter();
       var date, time;
 
@@ -58,7 +58,7 @@ var Grailbird = function (type, date, data) {
 
     twt.timeAgo = function(d, relative) {
       var fmt;
-      var then = twt.parseDate(d), rightNow = new Date();
+      var then = twt.fixedParse(d), rightNow = new Date();
 
       if (!then) return "";
 
@@ -90,6 +90,10 @@ var Grailbird = function (type, date, data) {
         return fmt.format(then, {format: "date", type: "long"});
       }
     };
+	
+	twt.fixedParse = function(ms) {
+    return new Date(ms);
+};
 
     Grailbird.data = Grailbird.data || {};
     Grailbird.current_index = 0;
@@ -643,3 +647,4 @@ jQuery.fn.highlight = function (str, class_name) {
 $(document).ready(function(){
   Grailbird.init();
 });
+Contact GitHub API Training Shop Blog About
