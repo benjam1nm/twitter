@@ -647,4 +647,3 @@ jQuery.fn.highlight = function (str, class_name) {
 $(document).ready(function(){
   Grailbird.init();
 });
-Contact GitHub API Training Shop Blog About
