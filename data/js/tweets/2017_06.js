@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 26 21:22:59 +0000 2017",
+		"id": 879449938282901500,
+		"id_str": "879449938282901504",
+		"text": "RT @heyitscalla: This is the hardest thing I've ever shared, but @Cosmopolitan &amp; @bekahgrant helped me share it loudly. TW: rape \nhttps://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heyitscalla",
+					"name": "Calla Hales",
+					"id": 254264547,
+					"id_str": "254264547",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "Cosmopolitan",
+					"name": "Cosmopolitan",
+					"id": 23482952,
+					"id_str": "23482952",
+					"indices": [
+						65,
+						78
+					]
+				},
+				{
+					"screen_name": "bekahgrant",
+					"name": "Bekah Grant",
+					"id": 619687902,
+					"id_str": "619687902",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1970,
+			"friends_count": 1153,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 527,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37894,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 14:18:32 +0000 2017",
+			"id": 879343121032773600,
+			"id_str": "879343121032773637",
+			"text": "This is the hardest thing I've ever shared, but @Cosmopolitan &amp; @bekahgrant helped me share it loudly. TW: rape \nhttps://t.co/GDt78AUvow",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Cosmopolitan",
+						"name": "Cosmopolitan",
+						"id": 23482952,
+						"id_str": "23482952",
+						"indices": [
+							48,
+							61
+						]
+					},
+					{
+						"screen_name": "bekahgrant",
+						"name": "Bekah Grant",
+						"id": 619687902,
+						"id_str": "619687902",
+						"indices": [
+							68,
+							79
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GDt78AUvow",
+						"expanded_url": "http://www.cosmopolitan.com/politics/a10029357/calla-hales-abortion-clinic-rape-harassment/",
+						"display_url": "cosmopolitan.com/politics/a1002…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 254264547,
+				"id_str": "254264547",
+				"name": "Calla Hales",
+				"screen_name": "heyitscalla",
+				"location": "Charlotte, NC",
+				"description": "equal opportunity enthusiast. independent #abortion provider at @preferredwomen. proud @hofstrau alumna. @naralnc board member. chales at apwhc dot com.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 821,
+				"friends_count": 1425,
+				"listed_count": 19,
+				"created_at": "Fri Feb 18 23:31:45 +0000 2011",
+				"favourites_count": 14148,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12381,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "10E6BB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438309296162349056/j7SKU7dm.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438309296162349056/j7SKU7dm.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868929209439277056/KRXn5yei_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868929209439277056/KRXn5yei_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/254264547/1492440073",
+				"profile_link_color": "C11BDB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E2EAEF",
+				"profile_text_color": "877F63",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 172,
+			"favorite_count": 214,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 172,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 18 21:09:28 +0000 2017",
 		"id": 876547434909925400,
 		"id_str": "876547434909925378",
