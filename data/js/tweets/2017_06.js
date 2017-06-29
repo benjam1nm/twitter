@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 28 22:59:06 +0000 2017",
+		"id": 880198901944516600,
+		"id_str": "880198901944516608",
+		"text": "RT @AlexDiPrato: Because the smoke is so bad from Dorchester fire -- firefighters walking streets are telling people to stay inside. @7News…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlexDiPrato",
+					"name": "Alex DiPrato 7News",
+					"id": 64943431,
+					"id_str": "64943431",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "7News",
+					"name": "7News Boston WHDH",
+					"id": 16558796,
+					"id_str": "16558796",
+					"indices": [
+						133,
+						139
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1970,
+			"friends_count": 1154,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 527,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37896,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 28 22:43:42 +0000 2017",
+			"id": 880195028399927300,
+			"id_str": "880195028399927296",
+			"text": "Because the smoke is so bad from Dorchester fire -- firefighters walking streets are telling people to stay inside.… https://t.co/jXnAPf4yDl",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jXnAPf4yDl",
+						"expanded_url": "https://twitter.com/i/web/status/880195028399927296",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 64943431,
+				"id_str": "64943431",
+				"name": "Alex DiPrato 7News",
+				"screen_name": "AlexDiPrato",
+				"location": "Boston, MA",
+				"description": "On the NightTeam for @7News Boston. (Prior at @WSVN, @wpri12, @abc27)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3895,
+				"friends_count": 1660,
+				"listed_count": 150,
+				"created_at": "Wed Aug 12 04:59:52 +0000 2009",
+				"favourites_count": 1518,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6177,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/333200663/imagesCAG204UA.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/333200663/imagesCAG204UA.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/641313903868297217/f5aalMz1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/641313903868297217/f5aalMz1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/64943431/1426103573",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 28 22:58:56 +0000 2017",
+		"id": 880198862656372700,
+		"id_str": "880198862656372738",
+		"text": "A few hours in... #Ashmont #Dorchester #Boston https://t.co/FfZhQBfFgV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Ashmont",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"text": "Dorchester",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"text": "Boston",
+					"indices": [
+						39,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FfZhQBfFgV",
+					"expanded_url": "https://twitter.com/joeysmithrocks/status/880198025297133568",
+					"display_url": "twitter.com/joeysmithrocks…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1970,
+			"friends_count": 1154,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 527,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37896,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 880198025297133600,
+		"quoted_status_id_str": "880198025297133568",
+		"quoted_status": {
+			"created_at": "Wed Jun 28 22:55:37 +0000 2017",
+			"id": 880198025297133600,
+			"id_str": "880198025297133568",
+			"text": "Across the street from the Dorchester fire. Seems like it's just getting worse unfortunately https://t.co/nJZmsOy638",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 880197938936512500,
+						"id_str": "880197938936512512",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/880197938936512512/pu/img/DyFV3qV1lR7WaiDk.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/880197938936512512/pu/img/DyFV3qV1lR7WaiDk.jpg",
+						"url": "https://t.co/nJZmsOy638",
+						"display_url": "pic.twitter.com/nJZmsOy638",
+						"expanded_url": "https://twitter.com/joeysmithrocks/status/880198025297133568/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 880197938936512500,
+						"id_str": "880197938936512512",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/880197938936512512/pu/img/DyFV3qV1lR7WaiDk.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/880197938936512512/pu/img/DyFV3qV1lR7WaiDk.jpg",
+						"url": "https://t.co/nJZmsOy638",
+						"display_url": "pic.twitter.com/nJZmsOy638",
+						"expanded_url": "https://twitter.com/joeysmithrocks/status/880198025297133568/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 10587,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/880197938936512512/pu/pl/NtnnG24772Vk5VDJ.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/880197938936512512/pu/vid/180x320/u7CoDhep-Xf3R-Uz.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/880197938936512512/pu/vid/720x1280/4frhG0R10NyiRL3N.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/880197938936512512/pu/vid/360x640/ZNck035-o3N_PaNf.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2337732763,
+				"id_str": "2337732763",
+				"name": "Joey Smith",
+				"screen_name": "joeysmithrocks",
+				"location": "Boston, MA",
+				"description": "Much like the Danny DeVito feature film, I'm a Renaissance man.",
+				"url": "http://t.co/Rs4HkduiLg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Rs4HkduiLg",
+								"expanded_url": "http://soundchips.co/",
+								"display_url": "soundchips.co",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 365,
+				"friends_count": 326,
+				"listed_count": 17,
+				"created_at": "Tue Feb 11 04:17:43 +0000 2014",
+				"favourites_count": 6307,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5284,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "262E53",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440331345022029824/MhrkhJU0.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440331345022029824/MhrkhJU0.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877534951641624576/gvxQYNNa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877534951641624576/gvxQYNNa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2337732763/1492557447",
+				"profile_link_color": "49607A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C7B3B7",
+				"profile_text_color": "A17880",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 26 21:22:59 +0000 2017",
 		"id": 879449938282901500,
 		"id_str": "879449938282901504",
