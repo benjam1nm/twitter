@@ -1,6 +1,1551 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 30 20:08:25 +0000 2017",
+		"id": 880880725410689000,
+		"id_str": "880880725410689025",
+		"text": "Pennsylvania is lost. (Seems to have wandered about 2500km / 1550 miles off course.) #northerninvasion… https://t.co/RTg5bDuVHw",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "northerninvasion",
+					"indices": [
+						85,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RTg5bDuVHw",
+					"expanded_url": "https://twitter.com/i/web/status/880880725410689025",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971,
+			"friends_count": 1157,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 531,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 30 04:14:42 +0000 2017",
+		"id": 880640715415597000,
+		"id_str": "880640715415597065",
+		"text": "RT @PeteButtigieg: Mika insult distracts from the fake Time cover which diverts us from AHCA which cloaks a huge tax cut for the rich. It's…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeteButtigieg",
+					"name": "Pete Buttigieg",
+					"id": 226222147,
+					"id_str": "226222147",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971,
+			"friends_count": 1157,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 531,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 29 22:56:36 +0000 2017",
+			"id": 880560661389914100,
+			"id_str": "880560661389914113",
+			"text": "Mika insult distracts from the fake Time cover which diverts us from AHCA which cloaks a huge tax cut for the rich. It's like a Russian doll",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 226222147,
+				"id_str": "226222147",
+				"name": "Pete Buttigieg",
+				"screen_name": "PeteButtigieg",
+				"location": "South Bend, Indiana",
+				"description": "Afghanistan veteran, runner, musician, businessman, and South Bend's \"Mayor Pete\" since 2012. (BOOT-edge-edge)",
+				"url": "https://t.co/5fDJtxUnrQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5fDJtxUnrQ",
+								"expanded_url": "http://www.petefordnc.com",
+								"display_url": "petefordnc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65756,
+				"friends_count": 1771,
+				"listed_count": 566,
+				"created_at": "Mon Dec 13 16:49:04 +0000 2010",
+				"favourites_count": 228,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5039,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/624585606866153472/Ce4nq2GG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/624585606866153472/Ce4nq2GG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/226222147/1466968287",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2520,
+			"favorite_count": 6126,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2520,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 30 04:10:06 +0000 2017",
+		"id": 880639555245928400,
+		"id_str": "880639555245928448",
+		"text": "RT @BoingBoing: What The Roman Empire looks like as a modern subway transit map https://t.co/CHmGGiEiUH https://t.co/vkJmam3sFx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoingBoing",
+					"name": "Boing Boing",
+					"id": 5971922,
+					"id_str": "5971922",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CHmGGiEiUH",
+					"expanded_url": "http://boingboing.net/2017/06/29/the-roman-empire-as-a-modern-s.html",
+					"display_url": "boingboing.net/2017/06/29/the…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 880637781260853200,
+					"id_str": "880637781260853249",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DDinZW_XYAEVCGO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDinZW_XYAEVCGO.jpg",
+					"url": "https://t.co/vkJmam3sFx",
+					"display_url": "pic.twitter.com/vkJmam3sFx",
+					"expanded_url": "https://twitter.com/BoingBoing/status/880637784758919169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 799,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 799,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 880637784758919200,
+					"source_status_id_str": "880637784758919169",
+					"source_user_id": 5971922,
+					"source_user_id_str": "5971922"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 880637781260853200,
+					"id_str": "880637781260853249",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DDinZW_XYAEVCGO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDinZW_XYAEVCGO.jpg",
+					"url": "https://t.co/vkJmam3sFx",
+					"display_url": "pic.twitter.com/vkJmam3sFx",
+					"expanded_url": "https://twitter.com/BoingBoing/status/880637784758919169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 799,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 799,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 880637784758919200,
+					"source_status_id_str": "880637784758919169",
+					"source_user_id": 5971922,
+					"source_user_id_str": "5971922"
+				},
+				{
+					"id": 880637775871184900,
+					"id_str": "880637775871184896",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DDinZC6XkAAlR9V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDinZC6XkAAlR9V.jpg",
+					"url": "https://t.co/vkJmam3sFx",
+					"display_url": "pic.twitter.com/vkJmam3sFx",
+					"expanded_url": "https://twitter.com/BoingBoing/status/880637784758919169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 452,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 452,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 880637784758919200,
+					"source_status_id_str": "880637784758919169",
+					"source_user_id": 5971922,
+					"source_user_id_str": "5971922"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971,
+			"friends_count": 1157,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 531,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 30 04:03:04 +0000 2017",
+			"id": 880637784758919200,
+			"id_str": "880637784758919169",
+			"text": "What The Roman Empire looks like as a modern subway transit map https://t.co/CHmGGiEiUH https://t.co/vkJmam3sFx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CHmGGiEiUH",
+						"expanded_url": "http://boingboing.net/2017/06/29/the-roman-empire-as-a-modern-s.html",
+						"display_url": "boingboing.net/2017/06/29/the…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 880637781260853200,
+						"id_str": "880637781260853249",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DDinZW_XYAEVCGO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDinZW_XYAEVCGO.jpg",
+						"url": "https://t.co/vkJmam3sFx",
+						"display_url": "pic.twitter.com/vkJmam3sFx",
+						"expanded_url": "https://twitter.com/BoingBoing/status/880637784758919169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 799,
+								"h": 799,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 799,
+								"h": 799,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 880637781260853200,
+						"id_str": "880637781260853249",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DDinZW_XYAEVCGO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDinZW_XYAEVCGO.jpg",
+						"url": "https://t.co/vkJmam3sFx",
+						"display_url": "pic.twitter.com/vkJmam3sFx",
+						"expanded_url": "https://twitter.com/BoingBoing/status/880637784758919169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 799,
+								"h": 799,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 799,
+								"h": 799,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 880637775871184900,
+						"id_str": "880637775871184896",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DDinZC6XkAAlR9V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDinZC6XkAAlR9V.jpg",
+						"url": "https://t.co/vkJmam3sFx",
+						"display_url": "pic.twitter.com/vkJmam3sFx",
+						"expanded_url": "https://twitter.com/BoingBoing/status/880637784758919169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 452,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 452,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 452,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5971922,
+				"id_str": "5971922",
+				"name": "Boing Boing",
+				"screen_name": "BoingBoing",
+				"location": "Directory of Wonderful Things",
+				"description": "We began as an '80s cyberpunk zine. Still fiercely weird. Watch our in-flight TV channel on @virginamerica, buy cool stuff at https://t.co/Mh2VZpERhD. #resist",
+				"url": "https://t.co/84Dq61NblP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/84Dq61NblP",
+								"expanded_url": "http://www.boingboing.net",
+								"display_url": "boingboing.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Mh2VZpERhD",
+								"expanded_url": "http://store.boingboing.net",
+								"display_url": "store.boingboing.net",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 234545,
+				"friends_count": 1989,
+				"listed_count": 13341,
+				"created_at": "Fri May 11 19:14:39 +0000 2007",
+				"favourites_count": 13668,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 191802,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504445339894435841/gs4kNTTr.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504445339894435841/gs4kNTTr.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/616924998226153472/0EfZYjr2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/616924998226153472/0EfZYjr2_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5971922/1435347157",
+				"profile_link_color": "CC0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DCDCDC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 30 04:07:22 +0000 2017",
+		"id": 880638868726440000,
+		"id_str": "880638868726439936",
+		"text": "@harpojaeger I can't remember if Samantha Bee or John Oliver did piece debunking: resources presented as finite, if… https://t.co/BlwExsUuXS",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "harpojaeger",
+					"name": "Harpo Jaeger",
+					"id": 19478525,
+					"id_str": "19478525",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BlwExsUuXS",
+					"expanded_url": "https://twitter.com/i/web/status/880638868726439936",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 880521656812392400,
+		"in_reply_to_status_id_str": "880521656812392454",
+		"in_reply_to_user_id": 19478525,
+		"in_reply_to_user_id_str": "19478525",
+		"in_reply_to_screen_name": "harpojaeger",
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971,
+			"friends_count": 1157,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 531,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 30 04:01:59 +0000 2017",
+		"id": 880637515807563800,
+		"id_str": "880637515807563776",
+		"text": "RT @jennyschuessler: This tweet has been rigorously factchecked:  NYT newsroom takes a 15-min walk to protest disbanding the copydesk https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jennyschuessler",
+					"name": "Jennifer Schuessler",
+					"id": 131315938,
+					"id_str": "131315938",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971,
+			"friends_count": 1157,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 531,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 29 19:02:00 +0000 2017",
+			"id": 880501624204144600,
+			"id_str": "880501624204144641",
+			"text": "This tweet has been rigorously factchecked:  NYT newsroom takes a 15-min walk to protest disbanding the copydesk https://t.co/OfA6uvw4La",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 880501622031437800,
+						"id_str": "880501622031437825",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DDgrj2VW0AEPmtX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDgrj2VW0AEPmtX.jpg",
+						"url": "https://t.co/OfA6uvw4La",
+						"display_url": "pic.twitter.com/OfA6uvw4La",
+						"expanded_url": "https://twitter.com/jennyschuessler/status/880501624204144641/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 880501622031437800,
+						"id_str": "880501622031437825",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/DDgrj2VW0AEPmtX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDgrj2VW0AEPmtX.jpg",
+						"url": "https://t.co/OfA6uvw4La",
+						"display_url": "pic.twitter.com/OfA6uvw4La",
+						"expanded_url": "https://twitter.com/jennyschuessler/status/880501624204144641/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 131315938,
+				"id_str": "131315938",
+				"name": "Jennifer Schuessler",
+				"screen_name": "jennyschuessler",
+				"location": "Brooklyn, NY",
+				"description": "New York Times ideas reporter, lapsed midwesterner, defender of the Oxford comma, &c. RTs imply RTs.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5048,
+				"friends_count": 1250,
+				"listed_count": 153,
+				"created_at": "Fri Apr 09 22:51:16 +0000 2010",
+				"favourites_count": 9805,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7387,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878228635022499841/U62FkWL2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878228635022499841/U62FkWL2_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 249,
+			"favorite_count": 448,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 249,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 30 03:52:56 +0000 2017",
+		"id": 880635237134368800,
+		"id_str": "880635237134368769",
+		"text": "@heyescapist @itsdlevy While campaigning he said it. And he/his team has claimed it since.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heyescapist",
+					"name": "Kate Bigam",
+					"id": 13593692,
+					"id_str": "13593692",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "itsdlevy",
+					"name": "David Levy",
+					"id": 30719281,
+					"id_str": "30719281",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 880635101796851700,
+		"in_reply_to_status_id_str": "880635101796851714",
+		"in_reply_to_user_id": 13593692,
+		"in_reply_to_user_id_str": "13593692",
+		"in_reply_to_screen_name": "heyescapist",
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971,
+			"friends_count": 1157,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 531,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 30 03:47:16 +0000 2017",
+		"id": 880633812572672000,
+		"id_str": "880633812572672000",
+		"text": "RT @itsdlevy: Tell me again how he's the most LGBT-friendly president. 😡 https://t.co/wG6S5Sk1ZQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "itsdlevy",
+					"name": "David Levy",
+					"id": 30719281,
+					"id_str": "30719281",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wG6S5Sk1ZQ",
+					"expanded_url": "https://twitter.com/BuzzFeedLGBT/status/880597778463727616",
+					"display_url": "twitter.com/BuzzFeedLGBT/s…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971,
+			"friends_count": 1157,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 531,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 30 01:24:59 +0000 2017",
+			"id": 880598003308007400,
+			"id_str": "880598003308007424",
+			"text": "Tell me again how he's the most LGBT-friendly president. 😡 https://t.co/wG6S5Sk1ZQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wG6S5Sk1ZQ",
+						"expanded_url": "https://twitter.com/BuzzFeedLGBT/status/880597778463727616",
+						"display_url": "twitter.com/BuzzFeedLGBT/s…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30719281,
+				"id_str": "30719281",
+				"name": "David Levy",
+				"screen_name": "itsdlevy",
+				"location": "Brooklyn Heights",
+				"description": "theatre-adjacent",
+				"url": "https://t.co/HlcJTuuOeA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HlcJTuuOeA",
+								"expanded_url": "http://itsdlevy.me",
+								"display_url": "itsdlevy.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3473,
+				"friends_count": 1608,
+				"listed_count": 130,
+				"created_at": "Sun Apr 12 20:53:32 +0000 2009",
+				"favourites_count": 46981,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 62935,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/831881243474198528/bUlFEgKW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/831881243474198528/bUlFEgKW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30719281/1492107668",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 880597778463727600,
+			"quoted_status_id_str": "880597778463727616",
+			"quoted_status": {
+				"created_at": "Fri Jun 30 01:24:05 +0000 2017",
+				"id": 880597778463727600,
+				"id_str": "880597778463727616",
+				"text": "Trump Administration Appoints Anti-Transgender Activist To Gender Equality Post https://t.co/rQoTbNhTwg",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/rQoTbNhTwg",
+							"expanded_url": "http://bzfd.it/2s7K0z1",
+							"display_url": "bzfd.it/2s7K0z1",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 774180818,
+					"id_str": "774180818",
+					"name": "BuzzFeed LGBT",
+					"screen_name": "BuzzFeedLGBT",
+					"location": "NYC",
+					"description": "We've got a lot to talk about. Tweets by BuzzFeedLGBT Team: @SkarSkarSkar, @__keating, @dominicholden, @ChrisGeidner, and @JLFeder.",
+					"url": "https://t.co/RKdcSHI9Ac",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/RKdcSHI9Ac",
+									"expanded_url": "http://www.buzzfeed.com/lgbt",
+									"display_url": "buzzfeed.com/lgbt",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 132832,
+					"friends_count": 151,
+					"listed_count": 1169,
+					"created_at": "Wed Aug 22 17:57:24 +0000 2012",
+					"favourites_count": 122,
+					"utc_offset": -10800,
+					"time_zone": "Atlantic Time (Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 15433,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FA4C12",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/691774972/94659bf7fa12c503de65ed4a8d2b94bd.gif",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/691774972/94659bf7fa12c503de65ed4a8d2b94bd.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/717362942635806720/sMPmTnmR_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/717362942635806720/sMPmTnmR_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/774180818/1459867641",
+					"profile_link_color": "23AADB",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 551,
+				"favorite_count": 332,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 6,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 880597778463727600,
+		"quoted_status_id_str": "880597778463727616",
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 30 03:14:49 +0000 2017",
+		"id": 880625643137970200,
+		"id_str": "880625643137970176",
+		"text": "Dear Neighbour:\nYour smoke detector has been chirping for several months. Please change the battery - for your safety, for my sanity. \nxo!\nB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971,
+			"friends_count": 1157,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 531,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 29 20:20:53 +0000 2017",
 		"id": 880521476125802500,
 		"id_str": "880521476125802496",
