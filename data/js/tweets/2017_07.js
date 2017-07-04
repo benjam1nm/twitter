@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Mon Jul 03 18:09:42 +0000 2017",
+		"id": 881938011239448600,
+		"id_str": "881938011239448578",
+		"text": "RT @bplmaps: Some of these maps look awfully familiar! \"How Boston Made Itself Bigger\" https://t.co/txHG7f8ghs via @NatGeo @mapdragons",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bplmaps",
+					"name": "Leventhal Map Center",
+					"id": 65125461,
+					"id_str": "65125461",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "NatGeo",
+					"name": "National Geographic",
+					"id": 17471979,
+					"id_str": "17471979",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"screen_name": "mapdragons",
+					"name": "Map Dragons",
+					"id": 1494655406,
+					"id_str": "1494655406",
+					"indices": [
+						123,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/txHG7f8ghs",
+					"expanded_url": "http://on.natgeo.com/2rd6m1k",
+					"display_url": "on.natgeo.com/2rd6m1k",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971,
+			"friends_count": 1158,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 531,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37924,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 15 13:29:30 +0000 2017",
+			"id": 875344518400311300,
+			"id_str": "875344518400311296",
+			"text": "Some of these maps look awfully familiar! \"How Boston Made Itself Bigger\" https://t.co/txHG7f8ghs via @NatGeo @mapdragons",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NatGeo",
+						"name": "National Geographic",
+						"id": 17471979,
+						"id_str": "17471979",
+						"indices": [
+							102,
+							109
+						]
+					},
+					{
+						"screen_name": "mapdragons",
+						"name": "Map Dragons",
+						"id": 1494655406,
+						"id_str": "1494655406",
+						"indices": [
+							110,
+							121
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/txHG7f8ghs",
+						"expanded_url": "http://on.natgeo.com/2rd6m1k",
+						"display_url": "on.natgeo.com/2rd6m1k",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65125461,
+				"id_str": "65125461",
+				"name": "Leventhal Map Center",
+				"screen_name": "bplmaps",
+				"location": "Boston, Massachusetts ",
+				"description": "The Norman B. Leventhal Map Center at the Boston Public Library fosters the creative educational use of its cartographic holdings.",
+				"url": "https://t.co/DAGLAxp7rp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DAGLAxp7rp",
+								"expanded_url": "http://www.leventhalmap.org",
+								"display_url": "leventhalmap.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2862,
+				"friends_count": 1260,
+				"listed_count": 182,
+				"created_at": "Wed Aug 12 19:01:40 +0000 2009",
+				"favourites_count": 1518,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4383,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D4F5F7",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/507126531/05_04_000063.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/507126531/05_04_000063.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/851860278916468736/UciEatlT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/851860278916468736/UciEatlT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65125461/1491934367",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 02 23:26:07 +0000 2017",
 		"id": 881655255418769400,
 		"id_str": "881655255418769408",
