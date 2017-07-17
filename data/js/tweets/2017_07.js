@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 16 16:51:59 +0000 2017",
+		"id": 886629496836718600,
+		"id_str": "886629496836718593",
+		"text": "RT @Reebok: In case you were wondering when it IS appropriate to say, \"You're in such good shape...beautiful,\"... THIS: https://t.co/Z1cnnR…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Reebok",
+					"name": "Reebok",
+					"id": 21915474,
+					"id_str": "21915474",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1972,
+			"friends_count": 1167,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 539,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 14 20:31:09 +0000 2017",
+			"id": 885959875393712100,
+			"id_str": "885959875393712128",
+			"text": "In case you were wondering when it IS appropriate to say, \"You're in such good shape...beautiful,\"... THIS: https://t.co/Z1cnnRD8Ut",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 885959873523052500,
+						"id_str": "885959873523052544",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DEuPz5qXcAAT8pl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEuPz5qXcAAT8pl.jpg",
+						"url": "https://t.co/Z1cnnRD8Ut",
+						"display_url": "pic.twitter.com/Z1cnnRD8Ut",
+						"expanded_url": "https://twitter.com/Reebok/status/885959875393712128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 819,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 819,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 885959873523052500,
+						"id_str": "885959873523052544",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DEuPz5qXcAAT8pl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEuPz5qXcAAT8pl.jpg",
+						"url": "https://t.co/Z1cnnRD8Ut",
+						"display_url": "pic.twitter.com/Z1cnnRD8Ut",
+						"expanded_url": "https://twitter.com/Reebok/status/885959875393712128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 819,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 819,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21915474,
+				"id_str": "21915474",
+				"name": "Reebok",
+				"screen_name": "Reebok",
+				"location": "Reebok Global HQ | Canton, MA",
+				"description": "We're here to tell great stories, show you awesome new gear, and celebrate every single personal record! Tweet us, we tweet back!",
+				"url": "http://t.co/XACTzbyqVV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XACTzbyqVV",
+								"expanded_url": "http://www.reebok.com",
+								"display_url": "reebok.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 732721,
+				"friends_count": 5523,
+				"listed_count": 2456,
+				"created_at": "Wed Feb 25 20:40:06 +0000 2009",
+				"favourites_count": 13310,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31296,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D2232A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/652459352754749440/zDjmwUjg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/652459352754749440/zDjmwUjg.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/542438975974019073/Yzm6Gwv8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/542438975974019073/Yzm6Gwv8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21915474/1463259221",
+				"profile_link_color": "FF0011",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C2C2C1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42310,
+			"favorite_count": 72190,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 42310,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 16 15:06:23 +0000 2017",
+		"id": 886602921995116500,
+		"id_str": "886602921995116545",
+		"text": "Still wondering why @TeenVogue and others need to talk about sex ed? This thread: https://t.co/FROjxN3zQl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeenVogue",
+					"name": "Teen Vogue",
+					"id": 24190981,
+					"id_str": "24190981",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FROjxN3zQl",
+					"expanded_url": "https://twitter.com/pfpicardi/status/885922401736851458",
+					"display_url": "twitter.com/pfpicardi/stat…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1972,
+			"friends_count": 1167,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 539,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 885922401736851500,
+		"quoted_status_id_str": "885922401736851458",
+		"quoted_status": {
+			"created_at": "Fri Jul 14 18:02:14 +0000 2017",
+			"id": 885922401736851500,
+			"id_str": "885922401736851458",
+			"text": "If it's ok with you guys, I'm gonna TALK ABOUT ANAL SEX FOR A WEE LIL THREAD.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26239721,
+				"id_str": "26239721",
+				"name": "Phillip Picardi",
+				"screen_name": "pfpicardi",
+				"location": "NYC",
+				"description": "Digital Editorial Director, @TeenVogue & @allure_magazine. My thoughts expressed here. Pitches/Say Hey: Phillip_Picardi@condenast.com.",
+				"url": "https://t.co/HwMP9USjZW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HwMP9USjZW",
+								"expanded_url": "https://www.snapchat.com/add/pfpicardi",
+								"display_url": "snapchat.com/add/pfpicardi",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31424,
+				"friends_count": 4244,
+				"listed_count": 309,
+				"created_at": "Tue Mar 24 13:49:35 +0000 2009",
+				"favourites_count": 14950,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 31534,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/716129432/ce200a15ed01a8e95ba0bfa1bb1b2966.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/716129432/ce200a15ed01a8e95ba0bfa1bb1b2966.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762736586215882752/PVNLpvbE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762736586215882752/PVNLpvbE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26239721/1431984995",
+				"profile_link_color": "911231",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDD6C7",
+				"profile_text_color": "575637",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8214,
+			"favorite_count": 18926,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 14 18:21:25 +0000 2017",
 		"id": 885927229812871200,
 		"id_str": "885927229812871169",
