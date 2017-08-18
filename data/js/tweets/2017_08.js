@@ -1,6 +1,710 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 17 19:44:05 +0000 2017",
+		"id": 898269220173172700,
+		"id_str": "898269220173172739",
+		"text": "RT @TheRaDR: This whole piece. https://t.co/uy7Im3Db6o https://t.co/uD18zevEHT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheRaDR",
+					"name": "Rav Danya Ruttenberg",
+					"id": 61802282,
+					"id_str": "61802282",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uy7Im3Db6o",
+					"expanded_url": "https://juliusgoat.blogspot.com/2017/01/sky.html?m=1",
+					"display_url": "juliusgoat.blogspot.com/2017/01/sky.ht…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 897435574130356200,
+					"id_str": "897435574130356224",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DHRU5lzWsAABuis.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHRU5lzWsAABuis.jpg",
+					"url": "https://t.co/uD18zevEHT",
+					"display_url": "pic.twitter.com/uD18zevEHT",
+					"expanded_url": "https://twitter.com/TheRaDR/status/897435584024674305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 452,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 452,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897435584024674300,
+					"source_status_id_str": "897435584024674305",
+					"source_user_id": 61802282,
+					"source_user_id_str": "61802282"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897435574130356200,
+					"id_str": "897435574130356224",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DHRU5lzWsAABuis.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHRU5lzWsAABuis.jpg",
+					"url": "https://t.co/uD18zevEHT",
+					"display_url": "pic.twitter.com/uD18zevEHT",
+					"expanded_url": "https://twitter.com/TheRaDR/status/897435584024674305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 452,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 452,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897435584024674300,
+					"source_status_id_str": "897435584024674305",
+					"source_user_id": 61802282,
+					"source_user_id_str": "61802282"
+				},
+				{
+					"id": 897435574113644500,
+					"id_str": "897435574113644546",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DHRU5lvXsAIFSW1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHRU5lvXsAIFSW1.jpg",
+					"url": "https://t.co/uD18zevEHT",
+					"display_url": "pic.twitter.com/uD18zevEHT",
+					"expanded_url": "https://twitter.com/TheRaDR/status/897435584024674305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897435584024674300,
+					"source_status_id_str": "897435584024674305",
+					"source_user_id": 61802282,
+					"source_user_id_str": "61802282"
+				},
+				{
+					"id": 897435574134550500,
+					"id_str": "897435574134550528",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DHRU5l0WsAAG0TI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHRU5l0WsAAG0TI.jpg",
+					"url": "https://t.co/uD18zevEHT",
+					"display_url": "pic.twitter.com/uD18zevEHT",
+					"expanded_url": "https://twitter.com/TheRaDR/status/897435584024674305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 897435584024674300,
+					"source_status_id_str": "897435584024674305",
+					"source_user_id": 61802282,
+					"source_user_id_str": "61802282"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1969,
+			"friends_count": 1166,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 544,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37979,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 12:31:31 +0000 2017",
+			"id": 897435584024674300,
+			"id_str": "897435584024674305",
+			"text": "This whole piece. https://t.co/uy7Im3Db6o https://t.co/uD18zevEHT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uy7Im3Db6o",
+						"expanded_url": "https://juliusgoat.blogspot.com/2017/01/sky.html?m=1",
+						"display_url": "juliusgoat.blogspot.com/2017/01/sky.ht…",
+						"indices": [
+							18,
+							41
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 897435574130356200,
+						"id_str": "897435574130356224",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DHRU5lzWsAABuis.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHRU5lzWsAABuis.jpg",
+						"url": "https://t.co/uD18zevEHT",
+						"display_url": "pic.twitter.com/uD18zevEHT",
+						"expanded_url": "https://twitter.com/TheRaDR/status/897435584024674305/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 410,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 452,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897435574130356200,
+						"id_str": "897435574130356224",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DHRU5lzWsAABuis.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHRU5lzWsAABuis.jpg",
+						"url": "https://t.co/uD18zevEHT",
+						"display_url": "pic.twitter.com/uD18zevEHT",
+						"expanded_url": "https://twitter.com/TheRaDR/status/897435584024674305/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 410,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 452,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 897435574113644500,
+						"id_str": "897435574113644546",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DHRU5lvXsAIFSW1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHRU5lvXsAIFSW1.jpg",
+						"url": "https://t.co/uD18zevEHT",
+						"display_url": "pic.twitter.com/uD18zevEHT",
+						"expanded_url": "https://twitter.com/TheRaDR/status/897435584024674305/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 897435574134550500,
+						"id_str": "897435574134550528",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/DHRU5l0WsAAG0TI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHRU5l0WsAAG0TI.jpg",
+						"url": "https://t.co/uD18zevEHT",
+						"display_url": "pic.twitter.com/uD18zevEHT",
+						"expanded_url": "https://twitter.com/TheRaDR/status/897435584024674305/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61802282,
+				"id_str": "61802282",
+				"name": "Rav Danya Ruttenberg",
+				"screen_name": "TheRaDR",
+				"location": "❤️",
+				"description": "Rabbi & author; newest book on parenting as an unexpected spiritual practice: https://t.co/NzKZt3n72P Fight for economic justice w/ @WeAreAvodah.",
+				"url": "https://t.co/DOtc0Iywky",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DOtc0Iywky",
+								"expanded_url": "http://danyaruttenberg.net",
+								"display_url": "danyaruttenberg.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NzKZt3n72P",
+								"expanded_url": "http://amzn.to/2fEMwps",
+								"display_url": "amzn.to/2fEMwps",
+								"indices": [
+									78,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14159,
+				"friends_count": 532,
+				"listed_count": 270,
+				"created_at": "Fri Jul 31 15:58:03 +0000 2009",
+				"favourites_count": 14946,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 48860,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897822763221757952/wJr3yULN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897822763221757952/wJr3yULN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61802282/1499596180",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 64,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 17 19:31:10 +0000 2017",
+		"id": 898265967930654700,
+		"id_str": "898265967930654720",
+		"text": "RT @JustinTrudeau: We know Canada isn't immune to racist violence &amp; hate. We condemn it in all its forms &amp; send support to the victims in C…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JustinTrudeau",
+					"name": "Justin Trudeau",
+					"id": 14260960,
+					"id_str": "14260960",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1969,
+			"friends_count": 1166,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 544,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37979,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 13 19:27:27 +0000 2017",
+			"id": 896815479989338100,
+			"id_str": "896815479989338113",
+			"text": "We know Canada isn't immune to racist violence &amp; hate. We condemn it in all its forms &amp; send support to the victims in Charlottesville.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14260960,
+				"id_str": "14260960",
+				"name": "Justin Trudeau",
+				"screen_name": "JustinTrudeau",
+				"location": "Papineau",
+				"description": "Account run by the 23rd Prime Minister of Canada and staff… Compte géré par le 23e premier ministre du Canada et personnel.",
+				"url": "https://t.co/wbkAcy1QE7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wbkAcy1QE7",
+								"expanded_url": "http://pm.gc.ca",
+								"display_url": "pm.gc.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3519673,
+				"friends_count": 960,
+				"listed_count": 11076,
+				"created_at": "Sun Mar 30 21:04:14 +0000 2008",
+				"favourites_count": 64,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15392,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBDCDD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/538085032842113025/cK69w4mC.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/538085032842113025/cK69w4mC.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816404989392211968/Wv_8ZDrX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816404989392211968/Wv_8ZDrX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14260960/1499699762",
+				"profile_link_color": "B50000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "B80B0B",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34475,
+			"favorite_count": 126308,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 34475,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 13 17:11:57 +0000 2017",
 		"id": 896781382663450600,
 		"id_str": "896781382663450624",
