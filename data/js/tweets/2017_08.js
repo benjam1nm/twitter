@@ -1,6 +1,596 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 18 13:57:58 +0000 2017",
+		"id": 898544505711771600,
+		"id_str": "898544505711771649",
+		"text": "RT @TooMuchDew: \"Sheet-caking is a grassroots movement.\" Weekend Update: #TinaFey on Protesting After Charlottesville 🇺🇸 https://t.co/TzB7H…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TinaFey",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TooMuchDew",
+					"name": "Bill Toenjes",
+					"id": 43073284,
+					"id_str": "43073284",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971,
+			"friends_count": 1166,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 544,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 18 13:51:08 +0000 2017",
+			"id": 898542785841819600,
+			"id_str": "898542785841819648",
+			"text": "\"Sheet-caking is a grassroots movement.\" Weekend Update: #TinaFey on Protesting After Charlottesville 🇺🇸 https://t.co/TzB7Hc5Hwh via @nbcsnl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TinaFey",
+						"indices": [
+							57,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nbcsnl",
+						"name": "Saturday Night Live",
+						"id": 28221296,
+						"id_str": "28221296",
+						"indices": [
+							133,
+							140
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TzB7Hc5Hwh",
+						"expanded_url": "https://youtu.be/iVvpXZxXWZU",
+						"display_url": "youtu.be/iVvpXZxXWZU",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43073284,
+				"id_str": "43073284",
+				"name": "Bill Toenjes",
+				"screen_name": "TooMuchDew",
+				"location": "Woodbury, MN USA",
+				"description": "L’esprit de l’escalier. Tall Tall Shadow. Dad, Fire/Medical Dispatcher, Scoutmaster, #LEGO / #AFOL: @GMLTC & #TwinLUG, #Corgi owner, #MtG / #CMDR, #StPaulite",
+				"url": "http://t.co/3fdvmUBoH9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3fdvmUBoH9",
+								"expanded_url": "http://www.flickr.com/people/toomuchdew/",
+								"display_url": "flickr.com/people/toomuch…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1024,
+				"friends_count": 2485,
+				"listed_count": 39,
+				"created_at": "Thu May 28 08:28:55 +0000 2009",
+				"favourites_count": 2151,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3175,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/672066865/3da21fb405780f24a75f38d856019d5d.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/672066865/3da21fb405780f24a75f38d856019d5d.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/743574920370622464/j0hWw2Zo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/743574920370622464/j0hWw2Zo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43073284/1495143810",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "093F91",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 18 13:56:19 +0000 2017",
+		"id": 898544089410318300,
+		"id_str": "898544089410318338",
+		"text": "RT @UnexpectedMel: \"Sheet-caking is a grassroots movement.\" -Tina Fey #WeekendUpdate #SNL https://t.co/IEuKIr4zkW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WeekendUpdate",
+					"indices": [
+						70,
+						84
+					]
+				},
+				{
+					"text": "SNL",
+					"indices": [
+						85,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UnexpectedMel",
+					"name": "Melanie Dale",
+					"id": 76658189,
+					"id_str": "76658189",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 898355036304035800,
+					"id_str": "898355036304035840",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DHeZJVUV0AAJjnb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHeZJVUV0AAJjnb.jpg",
+					"url": "https://t.co/IEuKIr4zkW",
+					"display_url": "pic.twitter.com/IEuKIr4zkW",
+					"expanded_url": "https://twitter.com/UnexpectedMel/status/898355046294990850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1146,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898355046294990800,
+					"source_status_id_str": "898355046294990850",
+					"source_user_id": 76658189,
+					"source_user_id_str": "76658189"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 898355036304035800,
+					"id_str": "898355036304035840",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DHeZJVUV0AAJjnb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHeZJVUV0AAJjnb.jpg",
+					"url": "https://t.co/IEuKIr4zkW",
+					"display_url": "pic.twitter.com/IEuKIr4zkW",
+					"expanded_url": "https://twitter.com/UnexpectedMel/status/898355046294990850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1146,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898355046294990800,
+					"source_status_id_str": "898355046294990850",
+					"source_user_id": 76658189,
+					"source_user_id_str": "76658189"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971,
+			"friends_count": 1166,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 544,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 18 01:25:08 +0000 2017",
+			"id": 898355046294990800,
+			"id_str": "898355046294990850",
+			"text": "\"Sheet-caking is a grassroots movement.\" -Tina Fey #WeekendUpdate #SNL https://t.co/IEuKIr4zkW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WeekendUpdate",
+						"indices": [
+							51,
+							65
+						]
+					},
+					{
+						"text": "SNL",
+						"indices": [
+							66,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 898355036304035800,
+						"id_str": "898355036304035840",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DHeZJVUV0AAJjnb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHeZJVUV0AAJjnb.jpg",
+						"url": "https://t.co/IEuKIr4zkW",
+						"display_url": "pic.twitter.com/IEuKIr4zkW",
+						"expanded_url": "https://twitter.com/UnexpectedMel/status/898355046294990850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1146,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 671,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 898355036304035800,
+						"id_str": "898355036304035840",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DHeZJVUV0AAJjnb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHeZJVUV0AAJjnb.jpg",
+						"url": "https://t.co/IEuKIr4zkW",
+						"display_url": "pic.twitter.com/IEuKIr4zkW",
+						"expanded_url": "https://twitter.com/UnexpectedMel/status/898355046294990850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1146,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 671,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 76658189,
+				"id_str": "76658189",
+				"name": "Melanie Dale",
+				"screen_name": "UnexpectedMel",
+				"location": "Georgia, USA",
+				"description": "Author, speaker, blogger, podcaster. Snort-laughing geek. I have a varsity letter in show choir.",
+				"url": "https://t.co/ppVodwrCVq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ppVodwrCVq",
+								"expanded_url": "http://www.unexpected.org/",
+								"display_url": "unexpected.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2367,
+				"friends_count": 1210,
+				"listed_count": 82,
+				"created_at": "Wed Sep 23 14:34:56 +0000 2009",
+				"favourites_count": 8742,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14403,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBDCDC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670505756/0da16a322897e2eb20f9f4eac2d61e70.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670505756/0da16a322897e2eb20f9f4eac2d61e70.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/527261511887368192/ovprK3hm_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/527261511887368192/ovprK3hm_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/76658189/1466439970",
+				"profile_link_color": "BD330E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E2D2A7",
+				"profile_text_color": "2B1C0E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1795,
+			"favorite_count": 6087,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1795,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 17 19:44:05 +0000 2017",
 		"id": 898269220173172700,
 		"id_str": "898269220173172739",
