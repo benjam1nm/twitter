@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 22 01:24:20 +0000 2017",
+		"id": 899804395772235800,
+		"id_str": "899804395772235778",
+		"text": "RT @ACLU: How to make a solar eclipse relevant to our interests 👇 https://t.co/NM8m08czLC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ACLU",
+					"name": "ACLU National",
+					"id": 13393052,
+					"id_str": "13393052",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NM8m08czLC",
+					"expanded_url": "https://twitter.com/seanmcelwee/status/899691644047556608",
+					"display_url": "twitter.com/seanmcelwee/st…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971,
+			"friends_count": 1166,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 544,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 21 20:00:45 +0000 2017",
+			"id": 899722966350614500,
+			"id_str": "899722966350614529",
+			"text": "How to make a solar eclipse relevant to our interests 👇 https://t.co/NM8m08czLC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NM8m08czLC",
+						"expanded_url": "https://twitter.com/seanmcelwee/status/899691644047556608",
+						"display_url": "twitter.com/seanmcelwee/st…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13393052,
+				"id_str": "13393052",
+				"name": "ACLU National",
+				"screen_name": "ACLU",
+				"location": "All 50 states",
+				"description": "The American Civil Liberties Union is a nonprofit, nonpartisan, legal and advocacy organization devoted to protecting the rights of everyone in America.",
+				"url": "http://t.co/AF1gbNvLJ8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AF1gbNvLJ8",
+								"expanded_url": "http://www.aclu.org",
+								"display_url": "aclu.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1266558,
+				"friends_count": 5503,
+				"listed_count": 13112,
+				"created_at": "Tue Feb 12 16:27:34 +0000 2008",
+				"favourites_count": 13713,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 35218,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3A7CC2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/8644121/twitterbg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/8644121/twitterbg.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885528292899647488/mVsnN3cf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885528292899647488/mVsnN3cf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13393052/1485811411",
+				"profile_link_color": "0782ED",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 899691644047556600,
+			"quoted_status_id_str": "899691644047556608",
+			"quoted_status": {
+				"created_at": "Mon Aug 21 17:56:18 +0000 2017",
+				"id": 899691644047556600,
+				"id_str": "899691644047556608",
+				"text": "If you're frantically trying to buy eclipse glasses right now, you'll understand why 30 day registration deadlines reduce voter turnout.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 318692762,
+					"id_str": "318692762",
+					"name": "sean.",
+					"screen_name": "SeanMcElwee",
+					"location": "the means of production",
+					"description": "Policy Analyst @DemosAction. Essayist. The wonks have interpreted the world, the point is to change it. seanadrianmc [at] gmail",
+					"url": "https://t.co/Kln44He6AO",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Kln44He6AO",
+									"expanded_url": "http://www.seanamcelwee.com",
+									"display_url": "seanamcelwee.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 47767,
+					"friends_count": 2536,
+					"listed_count": 1166,
+					"created_at": "Thu Jun 16 22:07:49 +0000 2011",
+					"favourites_count": 41616,
+					"utc_offset": -10800,
+					"time_zone": "Atlantic Time (Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 42378,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "B2DFDA",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/822966346992549889/NyoZ3sZZ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/822966346992549889/NyoZ3sZZ_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/318692762/1485129486",
+					"profile_link_color": "93A644",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 44170,
+				"favorite_count": 121596,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 1993,
+			"favorite_count": 6123,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 899691644047556600,
+		"quoted_status_id_str": "899691644047556608",
+		"retweet_count": 1993,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 18 13:57:58 +0000 2017",
 		"id": 898544505711771600,
 		"id_str": "898544505711771649",
