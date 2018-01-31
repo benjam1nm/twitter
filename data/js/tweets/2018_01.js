@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 30 01:50:38 +0000 2018",
+		"id": 958155460422578200,
+		"id_str": "958155460422578177",
+		"text": "This whole thread. \n\nPlus: https://t.co/7MWb0wORPm https://t.co/RKsrrqE3KT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7MWb0wORPm",
+					"expanded_url": "https://youtu.be/kWE6M-rhh2U",
+					"display_url": "youtu.be/kWE6M-rhh2U",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/RKsrrqE3KT",
+					"expanded_url": "https://twitter.com/suethetrex/status/957636029632172034",
+					"display_url": "twitter.com/suethetrex/sta…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1967,
+			"friends_count": 1156,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 546,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37945,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 957636029632172000,
+		"quoted_status_id_str": "957636029632172034",
+		"quoted_status": {
+			"created_at": "Sun Jan 28 15:26:36 +0000 2018",
+			"id": 957636029632172000,
+			"id_str": "957636029632172034",
+			"text": "Just a quick reminder... Indiana Jones is bad at his job. https://t.co/Ld48GaRZ4W",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ld48GaRZ4W",
+						"expanded_url": "https://twitter.com/independent/status/957584873463697409",
+						"display_url": "twitter.com/independent/st…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62127399,
+				"id_str": "62127399",
+				"name": "Specimen FMNH PR 2081 🦖",
+				"screen_name": "SUEtheTrex",
+				"location": "Chicago, IL (via South Dakota)",
+				"description": "Legendary Fossil. Apex Predator. National Treasure. New Suite Getter. All Caps Name Haver. \"They/Them\" Pronoun User. LARGE M U R D E R B I R D. #SUEonTheMove",
+				"url": "https://t.co/gPpEhpZQA4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gPpEhpZQA4",
+								"expanded_url": "http://archive.fieldmuseum.org/sue/#index",
+								"display_url": "archive.fieldmuseum.org/sue/#index",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33469,
+				"friends_count": 2222,
+				"listed_count": 728,
+				"created_at": "Sat Aug 01 21:56:05 +0000 2009",
+				"favourites_count": 8216,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20997,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000013085140/07b3853c02af5dc3fab3e3818bc20fbe.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000013085140/07b3853c02af5dc3fab3e3818bc20fbe.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/945757084171362305/ERR3MEUz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/945757084171362305/ERR3MEUz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62127399/1514321036",
+				"profile_link_color": "BA2636",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 957584873463697400,
+			"quoted_status_id_str": "957584873463697409",
+			"retweet_count": 126,
+			"favorite_count": 475,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 29 18:57:19 +0000 2018",
 		"id": 958051448021045200,
 		"id_str": "958051448021045256",
