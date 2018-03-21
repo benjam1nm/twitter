@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 20 23:26:58 +0000 2018",
+		"id": 976238702371405800,
+		"id_str": "976238702371405824",
+		"text": "Move aside, #birthdaycake, the new #birthday favourite in our family is #bananapudding (by request of @sbcareymaron… https://t.co/7v2FORDt4b",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "birthdaycake",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"text": "birthday",
+					"indices": [
+						35,
+						44
+					]
+				},
+				{
+					"text": "bananapudding",
+					"indices": [
+						72,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7v2FORDt4b",
+					"expanded_url": "https://twitter.com/i/web/status/976238702371405824",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1963,
+			"friends_count": 1156,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 548,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37948,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 20 10:05:09 +0000 2018",
+		"id": 976036915647516700,
+		"id_str": "976036915647516672",
+		"text": "Hey @BFGtweets, it's your birthday\nWe gon' party like it's yo birthday\nhttps://t.co/od8dMhB7CB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BFGtweets",
+					"name": "Stephanie",
+					"id": 177952885,
+					"id_str": "177952885",
+					"indices": [
+						4,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/od8dMhB7CB",
+					"expanded_url": "https://youtu.be/F9Bt9YddW0c",
+					"display_url": "youtu.be/F9Bt9YddW0c",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1963,
+			"friends_count": 1156,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 548,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37948,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 20 02:55:51 +0000 2018",
+		"id": 975928880040169500,
+		"id_str": "975928880040169472",
+		"text": "RT @TheCut: \"Without a patient hand to hold, some parents never look for the information they need, or even realize it exists,\" explains @T…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheCut",
+					"name": "The Cut",
+					"id": 19923638,
+					"id_str": "19923638",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28883923,
+			"id_str": "28883923",
+			"name": "Benjamin M.",
+			"screen_name": "wanderingBAM",
+			"location": "",
+			"description": "Partner of @BFGtweets, lapsed kayaker, home cook, Scrabble enthusiast, Canadian south of the border.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1963,
+			"friends_count": 1156,
+			"listed_count": 82,
+			"created_at": "Sat Apr 04 22:25:26 +0000 2009",
+			"favourites_count": 548,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37948,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7CA653",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493494164391096321/g8CgygkX.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/632245363999641600/hVDzpas7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28883923/1360851202",
+			"profile_link_color": "7C7C7C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC66",
+			"profile_text_color": "807540",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 19 20:24:37 +0000 2018",
+			"id": 975830420817358800,
+			"id_str": "975830420817358848",
+			"text": "\"Without a patient hand to hold, some parents never look for the information they need, or even realize it exists,\"… https://t.co/5vPm77LZbt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5vPm77LZbt",
+						"expanded_url": "https://twitter.com/i/web/status/975830420817358848",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19923638,
+				"id_str": "19923638",
+				"name": "The Cut",
+				"screen_name": "TheCut",
+				"location": "New York, NY",
+				"description": "Showing the world what women are made of.",
+				"url": "https://t.co/LXYpRGXBZm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LXYpRGXBZm",
+								"expanded_url": "https://thecut.com",
+								"display_url": "thecut.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1431195,
+				"friends_count": 4464,
+				"listed_count": 10674,
+				"created_at": "Mon Feb 02 19:13:01 +0000 2009",
+				"favourites_count": 4911,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 117256,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/783123681/ff4c7143ea2431e891f7570df94070df.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/783123681/ff4c7143ea2431e891f7570df94070df.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899259308445020161/OL2Y5xmv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899259308445020161/OL2Y5xmv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19923638/1503235046",
+				"profile_link_color": "DB2973",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 13 19:27:05 +0000 2018",
 		"id": 973641616413069300,
 		"id_str": "973641616413069312",
